@@ -1,0 +1,6 @@
+backend/.venv/
+backend/smartpole.db
+backend/media/
+__pycache__/
+frontend/node_modules/
+frontend/dist/
